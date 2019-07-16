@@ -12,9 +12,9 @@ Componentes utilizados:
 
 Despliegue:
 
- - en ../Enreda_note
+ - en ../
    - python manage.py migrate
    - python manage.py runserver
- - en otro terminal ../Enreda_note/frontend
+ - en otro terminal ../frontend
    - npm run dev
  - acceder a un navegador web y poner http://localhost:8080/

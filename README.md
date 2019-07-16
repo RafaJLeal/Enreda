@@ -16,5 +16,6 @@ Despliegue:
    - python manage.py migrate
    - python manage.py runserver
  - en otro terminal ../frontend
+   - (Es posible que haga falta realizar un "vue init webpack frontend" para cargar la carpeta "/node_modules")
    - npm run dev
  - acceder a un navegador web y poner http://localhost:8080/
